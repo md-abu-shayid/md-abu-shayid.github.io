@@ -15,7 +15,7 @@
 * Item 2
  * Item 2a
  * Item 2b
-## Text Formating
+## Text Formatting
 ### Bold
 **The quick brown fox jumps over the lazy dog.**
 __The quick brown fox jumps over the lazy dog.__
